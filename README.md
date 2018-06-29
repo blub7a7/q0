@@ -2,7 +2,7 @@ Steps:
 
 goto PWD ---> 3 Manager - 2 Worker
 
-git clone https://github.com/blub7a7/q0.git &&                                                                                                      cd q0...
+git clone https://github.com/blub7a7/q0.git &&                                                                                                      cd q0
 
 docker network create -d overlay net
 
